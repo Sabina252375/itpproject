@@ -63,6 +63,9 @@ CtrlDeadline Bot is a Telegram bot designed to help users manage tasks and deadl
 **Today & Calendar view & CSV export**  
 <img width="1392" height="595" alt="2026-05-19_23-24-02" src="https://github.com/user-attachments/assets/608d722c-d30d-4989-bf64-4cf653106737" />
 
+<img width="873" height="498" alt="2026-05-19_23-45-03" src="https://github.com/user-attachments/assets/f69386c3-017a-4581-8549-a580eb6a90c6" />
+
+
 **Delete feature & Tasks list**  
 <img width="1486" height="529" alt="2026-05-19_23-24-20" src="https://github.com/user-attachments/assets/5342edba-08d3-44af-a8f2-cf01c96d00ad" />
 
